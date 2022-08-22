@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: ThroatDIs
   m_EditorClassIdentifier: 
   illnessName: Throat disease
-  id: 0
+  id: 2
   minTemperature: 37
   maxTemperature: 38.1
   headAche: 1
